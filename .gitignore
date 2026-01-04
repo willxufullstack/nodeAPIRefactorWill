@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Keep this file
+!.gitignore
+
+# Allow source and tests
+!src/
+!src/**
+!test/
+!test/**
